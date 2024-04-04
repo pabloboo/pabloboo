@@ -6,7 +6,7 @@
 🌱 I’m currently learning Flutter to broaden my skill set.<br>
 📧 Contact me at booiglesiaspablo@gmail.com <br>
 🔗 Check my [portfolio](https://pabloboo.github.io/portfolio/).<br>
-<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pablo-boo-iglesias-812a561a0/)
+<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-boo/)
 
 # 🧪 Projects
 [Degree final project](https://ruc.udc.es/dspace/handle/2183/33347), Software that enables students and teachers to practice Spanish speaking.
